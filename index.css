@@ -4,13 +4,22 @@ p{
 	text-align: center;
 }
 h1{
-	color: black;
-	font-size: 78px;
-}
-#name{
 	margin: 10px;
 	border-color: rgb(68, 76, 81);
 	border-style: double;
 	border-width: 20px;
 	text-align: center;
+	color: black;
+	font-size: 78px;
+}
+.info{
+	margin-left: 10px;
+	margin-right: 900px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	border-color: rgb(0, 0, 0);
+	border-width: 1px;
+	border-style: solid;
+	padding-left: 10px;
+	font-size: 24px;
 }
