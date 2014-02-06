@@ -6,3 +6,8 @@ h1{
 	color: cyan;
 	font-size: 78px;
 }
+#name{
+	margin: 0px;
+	border-color: black;
+	text-align: center;
+}
