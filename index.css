@@ -7,8 +7,9 @@ h1{
 	font-size: 78px;
 }
 #name{
-	margin: 0px;
+	margin: 10px;
 	border-color: black;
+	border-style: double;
 	border-width: 20px;
 	text-align: center;
 }
