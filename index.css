@@ -34,3 +34,9 @@ body{
 	border-radius: 20px;
 	background-color: rgb(203, 203, 215);
 }
+img {
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: auto;
+}
