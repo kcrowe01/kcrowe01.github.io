@@ -1,0 +1,50 @@
+body{
+	background-color: rgb(68, 78, 84)
+}
+h1{
+	font-size: 24px;
+	text-align: center;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+h2{
+	font-size: 18px;
+	text-align: center;
+	border-style:solid;
+	border-radius: 10px;
+	border-width: 1px;
+	margin-right: 100px;
+	margin-left: 100px;
+	background-color: white;
+	margin-bottom: 40px;
+
+}
+.header{
+	font-size: 16px;
+	text-align: center;
+	border-style: dotted;
+	border-width: 2px;
+	border-radius: 10px;
+	background-color: rgb(241, 236, 249);
+	width: 500px;
+	text-align: center;
+	margin-left: 400px;
+	margin-right: 400px;
+
+}
+.info{
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-size: 12px;
+	background-color: rgb(196, 195, 199);
+	border-style: solid;
+	border-radius: 5px;
+	padding: 10px;
+
+}
