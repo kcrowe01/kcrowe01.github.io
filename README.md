@@ -1,0 +1,2 @@
+The address kcrowe01.github.io correctly displays index.html using the index.css styling sheet. This site contains links to the resume.html and bio.html files, each of which have their own corresponding .css files. www.cs.tufts.edu/~kcrowe01 successfully redirects to this page.
+I spent approximately 6 hours on this assignment. (A significant amount of this was dealing with git)
